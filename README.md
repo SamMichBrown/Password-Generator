@@ -1,9 +1,9 @@
-#Password-Generator
+Password-Generator
 
-##Password Generator JavaScript Challenge
+Password Generator JavaScript Challenge
 
 
-##Purpose
+Purpose
 A website that offers a randomized password based on selected criteria.
 
 ##Built With
@@ -12,10 +12,10 @@ HTML
 CSS
 JavaScript
 
-##Website
+Website
 https://sammichbrown.github.io/Password-Generator/
 
-###Contribution
+Contribution
 Made by Samantha Brown
 
 
